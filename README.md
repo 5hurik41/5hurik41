@@ -12,11 +12,4 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,nodejs,vuejs,react,angular,vite,vscode,clion,webstrom,arch,neovim,bash,discord,git,github,notion,obsidian,nextjs" />
   </a>
 </p>
-
-# 🎨 Design skills:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ps,ai,xd,pr,figma," />
-  </a>
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

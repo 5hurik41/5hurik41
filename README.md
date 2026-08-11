@@ -1,5 +1,5 @@
 # ✨ About me:
-👋 Hi, I'm Quentin!  <br>
+👋 Hi, I'm Shurikai!  <br>
 ✨ I'm a front-end developer and UI/UX designer passionate about crafting beautiful and functional digital experiences.<br>
 🎓 Currently, I'm studying at [42 Antananarivo](https://web.facebook.com/42Antananarivo), where I explore new challenges in coding and design.<br>
 ⚡ In my free time, I dive into the magical world of Harry Potter as a proud Potterhead.<br>
